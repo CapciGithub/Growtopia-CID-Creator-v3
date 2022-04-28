@@ -1,6 +1,6 @@
 Current Port: 17198 - 17200
 
-## Whats the difference between this and versions?
+## Whats the difference between this and other versions?
 
 * To be honest, all of them are similiar. I created v1 without knowledge and people complained about how hard it was to use v1. It made me create v2 because people were struggling to use v1. Everyone started using v2 and it made cloudshell run out of IP addresses so I made v3 to use the same script via Github Actions.
 
@@ -32,5 +32,5 @@ Current Port: 17198 - 17200
 
 * Please create your own repository to use this script otherwise people will have access to your account, tutorial above this text ^^
 * Make sure to include at least 1 number and 1 characters in your password. For example: `password1@`
-* If you downloaded your accounts I highly reccomend you to go to "Releases (1)" and find the 🗑 then click it and press "delete this release". This will prevent others from downloading your accounts.
+* If you downloaded your accounts I highly recommend you to go to "Releases (1)" and find the 🗑 then click it and press "delete this release". This will prevent others from downloading your accounts.
 * Also, I'm not responsible if somehow someone enters your accounts because of you not making your repository private.
