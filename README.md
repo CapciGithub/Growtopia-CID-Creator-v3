@@ -33,6 +33,6 @@ Current Port: 17198
 ### Important Notes
 
 * Please create your own repository to use this script otherwise people will have access to your account, tutorial above this text ^^
-* Make sure to include at least 1 number and 1 characters in your password. For example: password1@
+* Make sure to include at least 1 number and 1 characters in your password. For example: `password1@`
 * If you downloaded your accounts I highly reccomend you to go to "Releases (1)" and find the 🗑 then click it and press "delete this release". This will prevent others from downloading your accounts.
 * Also, I'm not responsible if somehow someone enters your accounts because of you not making your repository private.
